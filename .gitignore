@@ -1,0 +1,41 @@
+# Flutter
+.flutter-plugins
+.flutter-plugin-dependencies
+.packages
+
+# Android
+android/build/
+android/app/build/
+android/.gradle/
+
+# iOS
+ios/Pods/
+ios/build/
+ios/.symlinks/
+
+# General
+.DS_Store
+*.iml
+.idea/
+*.log
+
+# Dart compiled output
+build/
+.dart_tool/
+
+# Generated files
+*.g.dart
+*.freezed.dart
+*.config.dart
+
+# Crash reports
+crashlytics/
+
+# IntelliJ related files
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# VSCode related files
+.vscode/
